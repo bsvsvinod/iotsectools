@@ -9,13 +9,13 @@ SPIemulation.py is the python based tool is used to emulate the devices using th
 
 To use these tools:
 
-git clone https://github.com/vininfosec/iotsectools/baudrate.py
+git clone https://github.com/bsvsvinod/iotsectools/baudrate.py
 
 cd iotsectools/
 
 sudo python baudrate.py
 
-git clone https://github.com/vininfosec/iotsectools/blob/master/spiemulation.py
+git clone https://github.com/bsvsvinod/iotsectools/blob/master/spiemulation.py
 
 cd iotsectools/
 
