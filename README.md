@@ -2,10 +2,7 @@
 
 This repo consists various python scripts used for Internet Of Things Security Testing.
 
-Baudrate.py is the python based tool is used to connect at appropriate baud
-rate, parity and flow control properties of the IoT device.
-
-SPIemulation.py is the python based tool is used to emulate the devices using the SPI protocol.
+Baudrate.py is the python based tool is used to connect at appropriate baudrate, parity and flow control properties of the IoT device.
 
 To use these tools:
 
@@ -14,6 +11,9 @@ git clone https://github.com/bsvsvinod/iotsectools/baudrate.py
 cd iotsectools/
 
 sudo python baudrate.py
+
+
+SPIemulation.py is the python based tool is used to emulate the devices using the SPI protocol
 
 git clone https://github.com/bsvsvinod/iotsectools/blob/master/spiemulation.py
 
